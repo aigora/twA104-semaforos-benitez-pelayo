@@ -1,11 +1,7 @@
 # Título del trabajo
-
-Descripción breve del proyecto a realizar (2-3 frases).
-
+Panel de control de un cruce con dos lineas de semáforos
 ## Integrantes del equipo
-
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
-
+Sergio Benítez Rodríguez 53843
+Pelayo García-Avello Bofías 53967
 ## Objetivos del trabajo
-
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+Ofrecer al usuario el control de un cruce de semáforos con dos lineas, de manera que pueda controlar el funcionamiento de cada linea y también poner todos los semáforos en rojo en cao de emergencia
